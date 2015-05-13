@@ -1,0 +1,712 @@
+	{
+	"type": "FeatureCollection",
+	"features": [
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-122.032182 , 37.322998]	
+	},
+	"properties":{
+	"Name": "Matthew Axelson"	,
+	"Hometown": "Cupertino, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.457178 , 27.950575]	
+	},
+	"properties":{
+	"Name": "Kristin Beck"	,
+	"Hometown": "Tampa, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-159.540714 , 61.582811]	
+	},
+	"properties":{
+	"Name": "Matt Bissonnette"	,
+	"Hometown": "Ainak, Alaska"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-73.95 , 40.650000]	
+	},
+	"properties":{
+	"Name": "Roy Boehm "	,
+	"Hometown": "Brooklyn, New York"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-77.610922 , 43.161030]	
+	},
+	"properties":{
+	"Name": "Rudy Boesch "	,
+	"Hometown": "Rochester, New York"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.998794 , 39.961176]	
+	},
+	"properties":{
+	"Name": "Phil H. Bucklew"	,
+	"Hometown": "Columbus, Ohio"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-70.880049 , 42.558428]	
+	},
+	"properties":{
+	"Name": "James F. Cahill"	,
+	"Hometown": "Salem, Massachusettes"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.998794 , 39.961176]	
+	},
+	"properties":{
+	"Name": "Albert Calland"	,
+	"Hometown": "Columbus, Ohio"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-70.896716 , 42.519540]	
+	},
+	"properties":{
+	"Name": "Christopher Cassidy"	,
+	"Hometown": "Salem, Massachusettes"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.998794 , 39.961176]	
+	},
+	"properties":{
+	"Name": "Cade Courtley"	,
+	"Hometown": "Columbus, Ohio"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-81.223991 , 41.283944]	
+	},
+	"properties":{
+	"Name": "Dennis Chalker"	,
+	"Hometown": "Mantua, Ohio"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-119.772587 , 36.746842]	
+	},
+	"properties":{
+	"Name": "Al Clark"	,
+	"Hometown": "Fresno, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-87.57109 , 37.971559]	
+	},
+	"properties":{
+	"Name": "Dick Couch"	,
+	"Hometown": "Evansville, Indiana"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-105.01665 , 39.613321]	
+	},
+	"properties":{
+	"Name": "Danny Dietz"	,
+	"Hometown": "Aurora, Colorado"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-90.199404 , 38.627003]	
+	},
+	"properties":{
+	"Name": "Eric Greitens"	,
+	"Hometown": "St. Louis, Missouri"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.1400923 , 29.1871986]	
+	},
+	"properties":{
+	"Name": "Scott Helvenston"	,
+	"Hometown": "Ocala, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-74.145421 , 40.768434]	
+	},
+	"properties":{
+	"Name": 
+	"Harry Humphries" ,
+	"Hometown": "Kearney, New Jersey"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-119.018712 , 35.373292]	
+	},
+	"properties":{
+	"Name": "Larsen Jensen"	,
+	"Hometown": "Bakersfield, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-121.901795 , 38.310497]	
+	},
+	"properties":{
+	"Name": "Joseph D. Kernan"	,
+	"Hometown": "Solano County, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-102.367643 , 31.845682]	
+	},
+	"properties":{
+	"Name": "Chris Kyle"	,
+	"Hometown": "Odessa, Texas"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-96.681679 , 40.806862]	
+	},
+	"properties":{
+	"Name": "Bob Kerrey"	,
+	"Hometown": "Lincoln, Nebraska"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-76.298274 , 36.835426]	
+	},
+	"properties":{
+	"Name": "Erik S. Kristensen"	,
+	"Hometown": "Portsmouth, Virginia"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-117.379483 , 33.195870]	
+	},
+	"properties":{
+	"Name": "Michael D. Lumpkin"	,
+	"Hometown": "Oceanside, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-95.36939 , 29.760193]	
+	},
+	"properties":{
+	"Name": "Marcus Luttrell"	,
+	"Hometown": "Houston, Texas"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-83.045754 , 42.331427]	
+	},
+	"properties":{
+	"Name": "Richard Machowicz"	,
+	"Hometown": "Detroit, Michigan"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-73.95 , 40.650000]	
+	},
+	"properties":{
+	"Name": "Joseph Maguire"	,
+	"Hometown": "Brooklyn, New York"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-75.882421 , 40.831756]	
+	},
+	"properties":{
+	"Name": "Richard Marcinko"	,
+	"Hometown": "Lansford, Pennsylvania"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-74.311821 , 41.391165]	
+	},
+	"properties":{
+	"Name": "Donald L. McFaul"	,
+	"Hometown": "Orange County, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-79.469477 , 35.195434]	
+	},
+	"properties":{
+	"Name": "William H. McRaven"	,
+	"Hometown": "Pinehurst, North Carolina"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-118.193739 , 33.770050]	
+	},
+	"properties":{
+	"Name": "Michael A. Monsoor"	,
+	"Hometown": "Long Beach, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-73.200669 , 40.855931]	
+	},
+	"properties":{
+	"Name": "Michael P. Murphy"	,
+	"Hometown": "Smithtown, New York"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-81.655651 , 30.332184]	
+	},
+	"properties":{
+	"Name": "Thomas R. Norris"	,
+	"Hometown": "Jacksonville, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-122.444291 , 47.252877]	
+	},
+	"properties":{
+	"Name": "Eric T. Olson"	,
+	"Hometown": "Tacoma, Washington"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-71.059773 , 42.358431]	
+	},
+	"properties":{
+	"Name": "Chuck Pfarrer"	,
+	"Hometown": "Boston, Massachusettes"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-86.10893 , 42.787523]	
+	},
+	"properties":{
+	"Name": "Erik Prince"	,
+	"Hometown": "Holland, Michigan"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-121.773297 , 38.678516]	
+	},
+	"properties":{
+	"Name": "Neil C. Roberts"	,
+	"Hometown": "Woodland, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-81.655651 , 30.332184]	
+	},
+	"properties":{
+	"Name": "Theodore Roosevelt IV"	,
+	"Hometown": "Jacksonville, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-95.36939 , 29.760193]	
+	},
+	"properties":{
+	"Name": "Craig Sawyer"	,
+	"Hometown": "Houston, Texas"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-84.269645 , 36.010356]	
+	},
+	"properties":{
+	"Name": "William M. Shepherd"	,
+	"Hometown": "Oak Ridge, Tennesee"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.39401 , 34.852618]	
+	},
+	"properties":{
+	"Name": "Michael E. Thornton"	,
+	"Hometown": "Greenville, South Carolina"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-86.158068 , 39.768403]	
+	},
+	"properties":{
+	"Name": "Mike Troy"	,
+	"Hometown": "Indianapolis, Indiana"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-80.090547 , 26.531787]	
+	},
+	"properties":{
+	"Name": 
+	"Howard E. Wasdin" ,
+	"Hometown": "Boynton Beach, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-93.26667 , 44.983334]	
+	},
+	"properties":{
+	"Name": "Jesse Ventura"	,
+	"Hometown": "Minneapolis, Minnesota"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-157.739444 , 21.402222]	
+	},
+	"properties":{
+	"Name": "Brandon Wolff"	,
+	"Hometown": "Kailua Oahu, Hawaii"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-115.9775 , 49.669722]	
+	},
+	"properties":{
+	"Name": "Brandon Webb"	,
+	"Hometown": "Kimberley, Canada"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-111.050499 , 45.683460]	
+	},
+	"properties":{
+	"Name": "Ryan Zinke"	,
+	"Hometown": "Bozeman, Montana"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-91.14032 , 30.458283]	
+	},
+	"properties":{
+	"Name": "Mark D. Kennedy"	,
+	"Hometown": "Baton Rouge, Louisiana"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-117.95367 , 33.709185]	
+	},
+	"properties":{
+	"Name": "Jeffrey Reynolds"	,
+	"Hometown": "Fountain Valley, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-81.519005 , 41.081445]	
+	},
+	"properties":{
+	"Name": "Christopher Heben"	,
+	"Hometown": "Akron, Ohio"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-82.98402 , 30.294946]	
+	},
+	"properties":{
+	"Name": "Stew Smith"	,
+	"Hometown": "Live Oak, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-74.172367 , 40.735657]	
+	},
+	"properties":{
+	"Name": "Ben Smith"	,
+	"Hometown": "Newark, New Jersey"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-95.36939 , 29.760193]	
+	},
+	"properties":{
+	"Name": "Jack Walston"	,
+	"Hometown": "Houston, Texas"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-83.978781 , 30.836582]	
+	},
+	"properties":{
+	"Name": "Brad McLeod"	,
+	"Hometown": "Thomasville, Georgia"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-122.908444 , 46.146779]	
+	},
+	"properties":{
+	"Name": "Joel Lambert"	,
+	"Hometown": "Kelso, Washington"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-98.395929 , 34.603567]	
+	},
+	"properties":{
+	"Name": "Shannon Rusch"	,
+	"Hometown": "Lawton, Oklahoma"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-80.325606 , 27.446706]	
+	},
+	"properties":{
+	"Name": "Richard Graham"	,
+	"Hometown": "Fort Pierce, Florida"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-74.890999 , 39.934002]	
+	},
+	"properties":{
+	"Name": "William Brown"	,
+	"Hometown": "Mt. Laurel, New Jersey"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-122.602627 , 47.169820]	
+	},
+	"properties":{
+	"Name": "Jake Zweig"	,
+	"Hometown": "Steilacoom, Washington"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-118.243685 , 34.052234]	
+	},
+	"properties":{
+	"Name": "Gabriel Gomez"	,
+	"Hometown": "Los Angeles, California"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-122.676207 , 45.523452]	
+	},
+	"properties":{
+	"Name": "Tyrone Woods"	,
+	"Hometown": "Portland, Oregon"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-71.136996 , 42.452303]	
+	},
+	"properties":{
+	"Name": "Glen Dougherty"	,
+	"Hometown": "Winchester, Massachusettes"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-111.413323 , 40.507009]	
+	},
+	"properties":{
+	"Name": "Mark Delisle"	,
+	"Hometown": "Herber City, Utah"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-71.190892 , 42.726202]	
+	},
+	"properties":{
+	"Name": "Don Mann"	,
+	"Hometown": "Methuen, Massachusettes"		
+			}
+	},
+	{
+	"type": "Feature",
+	"geometry":{
+	"type": "Point",
+	"coordinates": [-85.587229 , 42.291707]	
+	},
+	"properties":{
+	"Name": "Mark Divine"	,
+	"Hometown": "Kalamazoo, Michigan"		
+			}
+	}
+]
+}
+

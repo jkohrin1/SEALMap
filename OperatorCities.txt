@@ -1,0 +1,15 @@
+      3 Houston, Texas
+      3 Columbus, Ohio
+      2 Salem, Massachusettes
+      2 Jacksonville, Florida
+      2 Brooklyn, New York
+      1 Woodland, California
+      1 Winchester, Massachusettes
+      1 Thomasville, Georgia
+      1 Tampa, Florida
+      1 Tacoma, Washington
+      1 St. Louis, Missouri
+      1 Steilacoom, Washington
+      1 Solano County, California
+      1 Smithtown, New York
+      1 Rochester, New York

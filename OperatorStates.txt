@@ -1,0 +1,15 @@
+     10 California
+      7 New
+      7 Florida
+      5 Ohio
+      5 Massachusettes
+      4 York
+      4 Texas
+      3 Washington
+      3 Michigan
+      3 Jersey
+      3 Houston
+      3 Columbus
+      2 Salem
+      2 Jacksonville
+      2 Indiana

@@ -1,0 +1,54 @@
+Josh Kohring
+
+Dr. Scannell
+
+5 May 2014
+
+Final Project
+
+
+
+Goal : The goal of this project was to buid a dataset of names and hometowns of former United States 
+Navy Seals. By using the unix tools we learned in class, the data was manipulated to form a functional
+ json file with the intention of showing potential trends in where some America's greatest warriors 
+are born. 
+
+
+
+Process: The first step was to try and assemble the data of names and hometowns. To acquire 
+names, getNames.sh was used to grab a wikipedia page from the web. By using egrep and sed tools, the 
+data was simplified into a simple text file of a list of former Navy Seals. With further research, the
+ hometowns were hand added to the text file as well as the coordinates of where these towns are. 
+To try to make the dataset meaningful as possible, outside research was also done to find other names 
+of former SEALs that were not included in the wikipedia list. All of their information is added by 
+hand. This file is attached as Operators.txt. The coordinates had to be switched in order to match 
+geojson format. This as well as other manipulations were done in order to match the output recquired 
+for an operational json file (tested with GEOJsonLint). The script used for this task is attached as 
+Op2Json.sh. The json file maps a point at each of the hometowns and will show the SEALs name as well 
+as the name of the town or city. The json file is attached as FinalOperators.json. 
+
+
+
+Results: The results of this project were measured by counting the number of former SEALs that came 
+from each city. This data was obtained by running the getCityData.sh script on the Operators.txt 
+file. It counts and sorts how many times each city appears in the file and outputs this information 
+into a file called OperatorCities.txt. The same was done for the home states with the script 
+getStateData.sh and the result is outputted to the file OperatorCities.txt. While I tried to make 
+the data size as large as possible through a lot of snooping around, the dataset is still a small 
+65 people as this type of information is not easily accessed, and this was expected to be a problem 
+before the project began. Regardless, some trends can still be seen. Houston, and Columbus, Ohio 
+both had the highest frequency of former SEALs at 3. Salem, Massachusettes; Jacksonville, Florida; 
+and Brooklynn, New York rounded off the top 5 all with 2 former SEALs each. More interestingly, the 
+frequency of states was also analyzed. From highest to lowest: California 10, Florida 7, Ohio 5, 
+Massachusettes 5, New York 4. This data suggests that people most likely to succeed at becoming Navy 
+SEALs live closer to the oceans as the coastal states see the highest frequency of former operators. 
+There are plenty of exceptions to this data, however, but that can be expected. Many former SEALs 
+will vouch that there is no telling who will make it and that people from all walks of life have 
+been known to make it through. 
+
+
+
+Conclusions: This data, although a small representation, showed what I expected to find in that while
+ there may be a slight trend in areas with the most operators, there really is no telling where the
+ next SEAL might come from. To improve on this project I could get a larger dataset or answer a 
+different question entirely about different branches of the military or any occupation that exists. 
